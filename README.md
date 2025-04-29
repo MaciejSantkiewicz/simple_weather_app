@@ -4,7 +4,7 @@
 This app requires internet access to fetch real-time weather data.
 Make sure to add your API key before running from the OpenWeatherMap (registration required)
 ---
-
+![image](https://github.com/user-attachments/assets/580050b9-bdd4-4a69-872d-f013e4fdb8d9)
 ## 🚀 Features
 
 - 🌍 Search weather for any city using [OpenWeatherMap API](https://openweathermap.org/)
@@ -18,8 +18,6 @@ Make sure to add your API key before running from the OpenWeatherMap (registrati
 - ⌨️ Supports pressing **Enter** to trigger weather search
 - 📌 Window is centered on screen automatically
 
----
 
-## 🖼 Example UI
-![image](https://github.com/user-attachments/assets/580050b9-bdd4-4a69-872d-f013e4fdb8d9)
+
 
